@@ -1,0 +1,11 @@
+Year,Mileage,EngineSize,FuelType,Transmission,Seats,Price
+2018,65200,1800,Petrol,Manual,5,6.5
+2012,124500,2200,Diesel,Automatic,7,5.2
+2020,38000,NaN,Petrol,Manual,5,8.7
+2015,NaN,2000,Diesel,Automatic,5,7.1
+2019,58000,1600,Petrol,Manual,4,6.9
+2011,139000,2500,Diesel,Manual,7,4.5
+2022,12000,3000,Electric,Automatic,NaN,15.8
+2016,72000,1800,Petrol,Manual,5,6
+2013,98000,2000,Diesel,NaN,5,5.7
+2017,45000,1500,Petrol,Automatic,5,7.8

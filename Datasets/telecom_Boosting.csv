@@ -1,0 +1,31 @@
+CustomerID,MonthlyMinutes,MonthlyDataGB,ContractType,PaymentMethod,TenureMonths,MonthlyCharges,TotalCharges,LatePayments,CustomerSupportCalls,Churn
+C001,450,12,Month-to-Month,Credit Card,5,75,375,2,3,Yes
+C002,300,6,One Year,Bank Transfer,18,55,990,0,1,No
+C003,520,20,Month-to-Month,PayPal,2,95,190,1,2,Yes
+C004,250,5,Two Year,Credit Card,30,50,1500,0,0,No
+C005,600,25,Month-to-Month,Electronic Check,1,110,110,3,4,Yes
+C006,400,10,One Year,Bank Transfer,12,70,840,0,1,No
+C007,150,3,Two Year,Credit Card,40,40,1600,0,0,No
+C008,520,22,Month-to-Month,Electronic Check,3,100,300,2,3,Yes
+C009,310,8,One Year,Credit Card,15,60,900,0,1,No
+C010,700,30,Month-to-Month,PayPal,1,120,120,2,5,Yes
+C011,280,7,Two Year,Bank Transfer,28,55,1540,0,0,No
+C012,450,15,Month-to-Month,Electronic Check,4,85,340,1,2,Yes
+C013,500,18,One Year,Credit Card,20,90,1800,0,1,No
+C014,230,4,Two Year,Bank Transfer,35,45,1575,0,0,No
+C015,650,28,Month-to-Month,Electronic Check,2,115,230,3,4,Yes
+C016,320,9,One Year,PayPal,10,65,650,0,1,No
+C017,410,11,Two Year,Credit Card,25,75,1875,0,0,No
+C018,580,22,Month-to-Month,Electronic Check,6,105,630,2,3,Yes
+C019,275,6,One Year,Bank Transfer,18,55,990,0,1,No
+C020,720,32,Month-to-Month,PayPal,1,125,125,3,5,Yes
+C021,340,10,Two Year,Credit Card,30,65,1950,0,0,No
+C022,490,19,Month-to-Month,Electronic Check,3,95,285,1,3,Yes
+C023,260,5,One Year,Bank Transfer,22,50,1100,0,1,No
+C024,600,24,Month-to-Month,Electronic Check,2,110,220,2,4,Yes
+C025,330,8,Two Year,Credit Card,36,60,2160,0,0,No
+C026,480,17,One Year,PayPal,16,85,1360,0,1,No
+C027,710,29,Month-to-Month,Electronic Check,1,120,120,3,5,Yes
+C028,240,4,Two Year,Bank Transfer,40,45,1800,0,0,No
+C029,550,21,Month-to-Month,PayPal,5,100,500,2,3,Yes
+C030,310,9,One Year,Credit Card,14,65,910,0,1,No

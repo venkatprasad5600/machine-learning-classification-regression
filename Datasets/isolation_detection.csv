@@ -1,0 +1,31 @@
+TransactionID,Amount (USD),Time (hrs),Location,Merchant,IsFraud
+T001,250.75,2,New York,Amazon,0
+T002,980.2,5,Los Angeles,Apple Store,1
+T003,45.3,7,Chicago,Walmart,0
+T004,1200,9,Miami,BestBuy,1
+T005,15.99,11,Houston,Starbucks,0
+T006,560.1,14,Seattle,eBay,0
+T007,3200,16,Boston,Gucci,1
+T008,65.5,18,Denver,Target,0
+T009,780.45,20,Phoenix,Tesla Store,1
+T010,90,22,Dallas,Subway,0
+T011,130.2,25,Atlanta,Nike,0
+T012,4700,27,New York,Louis Vuitton,1
+T013,22.4,29,Chicago,McDonalds,0
+T014,890.6,32,San Diego,BestBuy,1
+T015,12,35,Miami,7-Eleven,0
+T016,2500,38,Las Vegas,Rolex,1
+T017,45.75,40,Seattle,Walmart,0
+T018,75.1,42,Boston,Starbucks,0
+T019,600.9,45,Dallas,Apple Store,1
+T020,30.2,47,Denver,McDonalds,0
+T021,110.4,50,Phoenix,Target,0
+T022,3500,53,New York,Cartier,1
+T023,210.8,55,Chicago,eBay,0
+T024,740,58,Miami,Tesla Store,1
+T025,18,60,Los Angeles,Starbucks,0
+T026,1600,63,Seattle,Gucci,1
+T027,25.4,65,Dallas,Walmart,0
+T028,50.7,68,Atlanta,Subway,0
+T029,4100,70,Las Vegas,Louis Vuitton,1
+T030,95.2,72,San Diego,Nike,0
